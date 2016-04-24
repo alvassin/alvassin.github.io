@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Alexander Vasin
+description:      Building web apps, APIs, infrastructure, coding things.
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,16 +9,16 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  name:           Alexander Vasin
+  avatar:         avatar.png
+  bio:            "Software artisan. Building web apps, APIs, infrastructure, coding things."
+  email:          hi@alvass.in
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       
-  github:         
+  facebook:       alvassin
+  github:         alvassin
   stackexchange:  
-  linkedin:       
+  linkedin:       alvassin
   instagram:      
   flickr:         
   tumblr:         
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Moscow
 future:      true
 highlighter: rouge
 markdown:    kramdown
